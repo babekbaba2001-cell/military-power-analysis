@@ -18,3 +18,5 @@
 
 ## 🔗 Əlaqə
 [LinkedIn](https://www.linkedin.com/in/babek-babayev-2a2aa6281/)
+
+![military-power-analysis](page1_overview.png)
