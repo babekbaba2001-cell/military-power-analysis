@@ -20,6 +20,9 @@
 [LinkedIn](https://www.linkedin.com/in/babek-babayev-2a2aa6281/)
 
 ### 📊 Dashboard Görünümü
+#### 🌍 1. Overview (Qlobal Baxış və Əsas Metriklər)
 ![military-power-analysis](page1_overview.png)
+#### 🛡️ 2. Military Power (Hərbi Güc və Arsenal Müqayisəsi)
 ![military-power-analysis](page2_military.png)
+#### 📍 3. Regional Analysis (Regionlar üzrə Güc Bölgüsü)
 ![military-power-analysis](page3_regional.png)
